@@ -1,7 +1,7 @@
 # SALES ANALYSIS - Follow Through Project
 
 ## Overview
-Behavioral and value-based customer segmentation to improve retention and drive sustainable revenue growth in e-commerce.
+Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 
 ## Business Questions
 
