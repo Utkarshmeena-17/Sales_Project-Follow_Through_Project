@@ -25,13 +25,13 @@ __1.Customer Segmentation__
   - High-value (top 25%)
 - Summarizes total LTV, customer counts, and average LTV per segment.
 
-Query: [1_customer_segmentation](Scripts/1_customer_segmentation.sql)
+Query: [1_customer_segmentation](1_customer_segmentation.sql)
 
 
-![customer_distribution_by_segment.png](Scripts/images/customer_distribution_by_segment.png)
+![customer_distribution_by_segment.png](images/customer_distribution_by_segment.png)
 
 
-![revenue_by_segment](Scripts/images/revenue_by_segment.png)
+![revenue_by_segment](images/revenue_by_segment.png)
 
 
 __2.Cohort Analysis__
@@ -40,9 +40,9 @@ __2.Cohort Analysis__
 - How much total revenue came from these first purchases
 - The average revenue per new customer
 
-Query: [2_Cohort_Analysis](Scripts/2_cohort_analysis.sql)
+Query: [2_Cohort_Analysis](2_cohort_analysis.sql)
 
-![cohort_analysis](Scripts/images/cohort_analysis.png)
+![cohort_analysis](images/cohort_analysis.png)
 
 
 __3.Retention Analysis__
@@ -51,9 +51,9 @@ __3.Retention Analysis__
 - What percentage of each cohort is churned or active
 - Helps you quickly see customer retention and churn trends over time
 
-Query: [3_customer_retention](Scripts/3_customer_retention.sql)
+Query: [3_customer_retention](3_customer_retention.sql)
 
-![3_customer_retention](Scripts/images/customer_retention.png)
+![3_customer_retention](images/customer_retention.png)
 
 ## strategic recommendations
 
